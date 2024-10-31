@@ -1,8 +1,3 @@
-"""
-Super Vinegere encoding programm
-"""
-
-
 def encrypt_vigenere(plaintext: str, Schlusselwort: str) -> str:
     """
     Encrypts plaintext using a Vigenere cipher.

@@ -1,7 +1,3 @@
-"""
-ultra Atbash encryptor 3000
-"""
-
 def encrypt_atbash(plaintext: str) -> str:
     """
     encrypt in Atbash
